@@ -19,3 +19,6 @@ TODO
 2. bilstm
 链接：https://pan.baidu.com/s/1gdS6Ldo-mjj0o428_vZoDw?pwd=9a7q 
 提取码：9a7q
+3. bert_best
+链接：https://pan.baidu.com/s/1BESzpHOhc2BHojkTHY8mRQ?pwd=xejt 
+提取码：xejt
