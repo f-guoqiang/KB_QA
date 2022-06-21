@@ -1,0 +1,11 @@
+2022-04-28 16:34:42 - INFO: dict_items([('dataset', 'cmedqaner_1'), ('save_path', '../mc-bert/bio_model_1.pt'), ('predict_path', './output_bio_1.json'), ('dist_emb_size', 20), ('type_emb_size', 20), ('lstm_hid_size', 512), ('conv_hid_size', 96), ('bert_hid_size', 768), ('biaffine_size', 512), ('ffnn_hid_size', 288), ('dilation', [1, 2, 3]), ('emb_dropout', 0.5), ('conv_dropout', 0.5), ('out_dropout', 0.33), ('epochs', 20), ('batch_size', 2), ('learning_rate', 0.001), ('weight_decay', 0), ('clip_grad_norm', 5.0), ('bert_name', '../mc-bert/pytorch_bert_model.bin'), ('bert_learning_rate', 5e-06), ('warm_factor', 0.1), ('use_bert_last_4_layers', True), ('seed', 123), ('config', './config/example_bio.json'), ('device', 0)])
+2022-04-28 16:34:42 - INFO: Loading Data
+2022-04-28 16:34:54 - INFO: 
++-------------+-----------+----------+
+| cmedqaner_1 | sentences | entities |
++-------------+-----------+----------+
+|    train    |    1673   |   6240   |
+|     dev     |    175    |   593    |
+|     test    |    215    |   796    |
++-------------+-----------+----------+
+2022-04-28 16:35:00 - INFO: Building Model

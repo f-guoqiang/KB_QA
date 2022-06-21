@@ -1,0 +1,18 @@
+2022-04-11 08:15:41 - INFO: dict_items([('dataset', 'cmedqaner_1'), ('save_path', './model.pt'), ('predict_path', './output.json'), ('dist_emb_size', 20), ('type_emb_size', 20), ('lstm_hid_size', 512), ('conv_hid_size', 128), ('bert_hid_size', 768), ('biaffine_size', 512), ('ffnn_hid_size', 384), ('dilation', [1, 2, 3, 4]), ('emb_dropout', 0.5), ('conv_dropout', 0.5), ('out_dropout', 0.33), ('epochs', 5), ('batch_size', 4), ('learning_rate', 0.001), ('weight_decay', 0), ('clip_grad_norm', 5.0), ('bert_name', 'dmis-lab/biobert-v1.1'), ('bert_learning_rate', 5e-06), ('warm_factor', 0.1), ('use_bert_last_4_layers', False), ('seed', 123), ('config', './config/example_bio.json'), ('device', 0)])
+2022-04-11 08:15:41 - INFO: Loading Data
+2022-04-11 08:15:58 - INFO: 
++-------------+-----------+----------+
+| cmedqaner_1 | sentences | entities |
++-------------+-----------+----------+
+|    train    |    1673   |   6240   |
+|     dev     |    175    |   1035   |
+|     test    |    215    |   1350   |
++-------------+-----------+----------+
+2022-04-11 08:16:06 - INFO: Building Model
+2022-04-11 08:16:12 - INFO: Epoch: 0
+2022-04-11 08:17:01 - INFO: 
++---------+--------+--------+-----------+--------+
+| Train 0 |  Loss  |   F1   | Precision | Recall |
++---------+--------+--------+-----------+--------+
+|  Label  | 0.1329 | 0.0771 |   0.0873  | 0.0778 |
++---------+--------+--------+-----------+--------+
