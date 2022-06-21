@@ -1,5 +1,6 @@
 # KB_QA
 本项目是实现聊天机器人，分为闲聊型和医疗任务型。前端使用微信小程序实现
+
 ***启动***
 1. 配置微信前端
 2. 写入知识图谱
@@ -22,3 +23,5 @@ TODO
 3. bert_best
 链接：https://pan.baidu.com/s/1BESzpHOhc2BHojkTHY8mRQ?pwd=xejt 
 提取码：xejt
+
+引用
