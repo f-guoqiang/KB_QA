@@ -25,3 +25,6 @@ TODO
 提取码：xejt
 
 引用
+https://github.com/wangle1218/KBQA-for-Diagnosis
+https://github.com/ljynlp/w2ner
+https://github.com/taishan1994/W2NER_predict
