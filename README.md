@@ -23,8 +23,8 @@ TODO
 3. bert_best
 链接：https://pan.baidu.com/s/1BESzpHOhc2BHojkTHY8mRQ?pwd=xejt 
 提取码：xejt
-
-引用
-https://github.com/wangle1218/KBQA-for-Diagnosis
-https://github.com/ljynlp/w2ner
-https://github.com/taishan1994/W2NER_predict
+ 
+#引用
+1. https://github.com/wangle1218/KBQA-for-Diagnosis
+2. https://github.com/ljynlp/w2ner
+3. https://github.com/taishan1994/W2NER_predict
